@@ -1,9 +1,8 @@
-##Data Preprocessing on a Real Dataset
+Data Preprocessing on a Real Dataset
 
 ## Group Members
-- Name 1
-- Name 2
-- Name 3
+Munib Ahmed
+Chech Trac, Way
 
 ## Project Description
 This project applies data preprocessing techniques including missing value
